@@ -74,7 +74,7 @@ https://fakestoreapi.com/
 
 ## 🔗 GitHub Repository
 
-(https://github.com/panditrohan812/E-Commerce_Website.git)
+https://github.com/panditrohan812/E-Commerce_Website.git
 
 ## 📸 Screenshots
 
