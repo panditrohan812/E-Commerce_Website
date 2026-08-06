@@ -78,7 +78,7 @@ https://fakestoreapi.com/
 
 ## 📸 Screenshots
 
-(screenshorts/home-page-full.png)
+![Home Page](screenshorts/home-page-full.png)
 
 ## 🔮 Future Improvements
 
