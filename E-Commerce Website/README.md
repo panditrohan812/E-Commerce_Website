@@ -78,8 +78,7 @@ https://github.com/panditrohan812/E-Commerce_Website.git
 
 ## 📸 Screenshots
 
-screenshots/home-page-full.png
-
+![Home Page](screenshorts/home-page-full.png)
 ## 🔮 Future Improvements
 
 - User Authentication
