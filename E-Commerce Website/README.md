@@ -78,7 +78,7 @@ https://github.com/panditrohan812/E-Commerce_Website.git
 
 ## 📸 Screenshots
 
-![Home Page](screenshrots/Home-page-full.png)
+![Home Page](screenshrots/home-page-full.png)
 
 ## 🔮 Future Improvements
 
