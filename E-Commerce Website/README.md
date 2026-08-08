@@ -70,15 +70,15 @@ https://fakestoreapi.com/
 
 ## 📹 Project Explanation
 
-🔗 **Video Link:** https://drive.google.com/your-video-link
+🔗 https://drive.google.com/file/d/1_yliICObWei185B0yLd_nQMb7g5IA3cM/view?usp=drivesdk
 
 ## 🔗 GitHub Repository
 
-(Add your GitHub repository link here)
+https://github.com/panditrohan812/E-Commerce_Website.git
 
 ## 📸 Screenshots
 
-screenshorts/home-page-full.png
+![Home Page](screenshrots/Home-page-full.png)
 
 ## 🔮 Future Improvements
 
